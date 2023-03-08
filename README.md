@@ -55,7 +55,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖Webpack Template <a name="about-project"></a>
 
 
 **Webpack Template** is a template which has webpack implemented with css loaders and live server.
